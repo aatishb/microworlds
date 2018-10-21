@@ -1,9 +1,9 @@
 ###### Microgames, microworlds, and other micro-experiments created in the PICO-8 fantasy console
 
 Games
-- [ghostcow](games/ghostcow/)
+- [ghostcow](games/ghostcow/) ([code](games/ghostcow/sketch.lua))
 
 Art
-- [leaf](art/leaf/)
-- [circledraw](art/circledraw/)
-- [sierpinski](art/sierpinski/)
+- [leaf](art/leaf/) ([code](art/leaf/sketch.lua))
+- [circledraw](art/circledraw/) ([code](art/circledraw/sketch.lua))
+- [sierpinski](art/sierpinski/) ([code](art/sierpinski/sketch.lua))
