@@ -12,6 +12,8 @@ Procedural Art
 - [flame](art/flame/)
 
 Simulation
+- [sandpile-lowres](simulation/sandpile-lowres)
+- [sandpile](simulation/sandpile)
 - [percolation](simulation/percolation)
 - [diffusion](simulation/diffusion)
 - [cloudrider](simulation/cloudrider)
