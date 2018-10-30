@@ -10,6 +10,7 @@ Procedural Art
 - [clouds](art/clouds/) ([code](https://github.com/aatishb/microworlds/blob/master/art/clouds/sketch.lua))
 - [sunspots](art/sunspots/) ([code](https://github.com/aatishb/microworlds/blob/master/art/sunspots/sketch.lua))
 - [flame](art/flame/) ([code](https://github.com/aatishb/microworlds/blob/master/art/flame/sketch.lua))
+- [hyperbola](art/hyperbola/) ([code](https://github.com/aatishb/microworlds/blob/master/art/hyperbola/sketch.lua))
 
 Simulation
 - [sandpile-lowres](simulation/sandpile-lowres) ([code](https://github.com/aatishb/microworlds/blob/master/simulation/sandpile-lowres/sketch.lua))
