@@ -41,20 +41,20 @@
 ## Simulation
 
 #### Sandpile (lowres)
-[![cart](simulation/sandpile-lowres/sandpile.p8.png)](simulation/sandpile-lowres)
+[![cart](simulation/sandpile-lowres/sandpile.p8.png)](simulation/sandpile-lowres/)
 - ([code](https://github.com/aatishb/microworlds/blob/master/simulation/sandpile-lowres/sketch.lua))
 
 #### Sandpile
-[![cart](simulation/sandpile/sandpile.p8.png)](simulation/sandpile)
+[![cart](simulation/sandpile/sandpile.p8.png)](simulation/sandpile/)
 - ([code](https://github.com/aatishb/microworlds/blob/master/simulation/sandpile/sketch.lua))
 
 #### Percolate
-[![cart](simulation/percolation/percolate.p8.png)](simulation/percolation)
+[![cart](simulation/percolation/percolate.p8.png)](simulation/percolation/)
 - ([code](https://github.com/aatishb/microworlds/blob/master/simulation/percolation/sketch.lua))
 
 #### Diffusion
-[![cart](simulation/diffusion/diffusion.p8.png)](simulation/diffusion)
+[![cart](simulation/diffusion/diffusion.p8.png)](simulation/diffusion/)
 - ([code](https://github.com/aatishb/microworlds/blob/master/simulation/diffusion/sketch.lua))
 
 #### Cloudrider
-- [cloudrider](simulation/cloudrider) ([code](https://github.com/aatishb/microworlds/blob/master/simulation/cloudrider/sketch.lua)) Uses arrow keys to navigate
+- [cloudrider](simulation/cloudrider/) ([code](https://github.com/aatishb/microworlds/blob/master/simulation/cloudrider/sketch.lua)) Uses arrow keys to navigate
