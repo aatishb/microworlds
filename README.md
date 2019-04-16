@@ -1,4 +1,6 @@
-###### Microgames, microworlds, and other micro-experiments created in the [PICO-8](https://www.lexaloffle.com/pico-8.php) fantasy console
+##### Microgames, microworlds, and other micro-experiments created in the [PICO-8](https://www.lexaloffle.com/pico-8.php) fantasy console
+
+######  Click on the cartridge to play. Every cartridge image (literally the .PNG file) includes all the code, art, and sounds, and can be loaded directly into PICO-8 for you to modify & play!
 
 ## Worlds
 
